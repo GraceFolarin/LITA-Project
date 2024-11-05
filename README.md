@@ -18,4 +18,5 @@ In the initial phase of the Data cleaning and preparations, we perform the follo
 1. Data loading and inspection
 2. Handling missing variable
 3. Data cleaning and formatting
-   
+ 
+### Exploratory Data Analysis   
